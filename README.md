@@ -1,2 +1,2 @@
-# VBA-PJCC
-VBA Report to Word for PJCC client
+# Python Gluc Consumption Perfusion
+Consumption calculations written in python
